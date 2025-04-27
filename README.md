@@ -55,4 +55,14 @@ It is designed to help **penetration testers**, **bug bounty hunters**, and **cy
 | ParamSpider     | URL Parameter Discovery            |
 
 ---
+## Installation, Setup & Run
+
+```bash
+git clone https://github.com/0xhabib99/WebRecon-VulnDetection.git
+cd WebRecon-VulnDetection
+chmod +x Recon.sh  # Make the script executable
+./recon.sh #to run
+
+
+
 
